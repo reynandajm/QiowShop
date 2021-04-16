@@ -6,10 +6,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5">
-                            <span>Bag,kids</span>
-                            <h1 style="color:#ffffff">Black friday</h1>
+                            <span>Kue Kering</span>
+                            <h1 style="color:#ffffff">Promo Lebaran</h1>
                             <p style="color:#ffffff">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                mau ngemil karena takut gemuk? Tenang. Qiow Cookies sudah terbukti rendah kalori, enak, dan ramah dikantong
                             </p>
                             <a href="https://bit.ly/32bWdpL" class="primary-btn">Shop Now</a>
                         </div>
@@ -20,10 +20,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5">
-                            <span>Bag,kids</span>
-                            <h1>Black friday</h1>
+                            <span>Kue Kering</span>
+                            <h1>Promo Lebaran</h1>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                               mau ngemil karena takut gemuk? Tenang. Qiow Cookies sudah terbukti rendah kalori, enak, dan ramah dikantong
                             </p>
                             <a href="#" class="primary-btn">Shop Now</a>
                         </div>
