@@ -55,7 +55,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12 mt-5">
-                    <carousel class="product-slider" :items="4" :nav="false" :autoplay="true" :dots="false">
+                    <carousel class="product-slider" :items="2" :nav="false" :autoplay="true" :dots="false">
                         <div class="product-item">
                             <div class="pi-pic">
                                 <img src="img/cookies/Qiow_cookies-3.jpg" alt="" />
