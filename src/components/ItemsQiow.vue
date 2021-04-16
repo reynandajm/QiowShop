@@ -1,23 +1,17 @@
 <template>
     <!-- Women Banner Section Begin -->
-    <section class="women-banner spad">
+    <section class="women-banner">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-12 mt-5">
+                <div class="col-lg-12 mt-4">
                     <carousel class="product-slider" :items="2" :nav="false" :autoplay="true" :dots="false">
                         <div class="product-item">
                             <div class="pi-pic">
                                 <img src="img/cookies/Qiow_cookies-8.jpg" alt="" />
-                                <ul>
-                                    <li class="w-icon active">
-                                        <a href="#"><i class="icon_bag_alt"></i></a>
-                                    </li>
-                                    <li class="quick-view"><a href="product.html">+ Quick View</a></li>
-                                </ul>
                             </div>
                             <div class="pi-text">
                                 <div class="catagory-name">Kue Kering</div>
-                                <a href="#">
+                                <a href="/#/product">
                                     <h5>Kue Bola Susu</h5>
                                 </a>
                                 <div class="product-price">
@@ -26,15 +20,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="product-item">
+                        <div class="product-item col-">
                             <div class="pi-pic">
                                 <img src="img/cookies/Qiow_cookies-9.jpg" alt="" />
-                                <ul>
-                                    <li class="w-icon active">
-                                        <a href="#"><i class="icon_bag_alt"></i></a>
-                                    </li>
-                                    <li class="quick-view"><a href="#">+ Quick View</a></li>
-                                </ul>
                             </div>
                             <div class="pi-text">
                                 <div class="catagory-name">Kue Kering</div>
