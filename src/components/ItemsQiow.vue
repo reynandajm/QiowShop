@@ -7,7 +7,7 @@
                     <carousel class="product-slider" :items="2" :nav="false" :autoplay="true" :dots="false">
                         <div class="product-item">
                             <div class="pi-pic">
-                                <img src="img/cookies/Qiow_cookies-8.jpg" alt="" />
+                                <img src="img/cookies/bolasusu_putih.jpg" alt="" />
                             </div>
                             <div class="pi-text">
                                 <div class="catagory-name">Kue Kering</div>
@@ -15,14 +15,14 @@
                                     <h5>Kue Bola Susu</h5>
                                 </a>
                                 <div class="product-price">
-                                    Rp.45.000
-                                    <span>Rp.55.000</span>
+                                    Rp.60.000
+                                    <span>Rp.65.000</span>
                                 </div>
                             </div>
                         </div>
                         <div class="product-item col-">
                             <div class="pi-pic">
-                                <img src="img/cookies/Qiow_cookies-9.jpg" alt="" />
+                                <img src="img/cookies/salju.jpg" alt="" />
                             </div>
                             <div class="pi-text">
                                 <div class="catagory-name">Kue Kering</div>
@@ -30,8 +30,8 @@
                                     <h5>Kue Salju</h5>
                                 </a>
                                 <div class="product-price">
-                                    Rp.55.000
-                                    <span>Rp.60.000</span>
+                                    Rp.60.000
+                                    <span>Rp.70.000</span>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                     <carousel class="product-slider" :items="2" :nav="false" :autoplay="true" :dots="false">
                         <div class="product-item">
                             <div class="pi-pic">
-                                <img src="img/cookies/Qiow_cookies-3.jpg" alt="" />
+                                <img src="img/cookies/nastar.jpg" alt="" />
                                 <!-- <ul>
                                     <li class="w-icon active">
                                         <a href="#"><i class="icon_bag_alt"></i></a>
@@ -60,14 +60,14 @@
                                     <h5>Kue Nastar</h5>
                                 </a>
                                 <div class="product-price">
-                                    Rp.55.000
+                                    Rp.60.000
                                     <span>Rp.65.000</span>
                                 </div>
                             </div>
                         </div>
                         <div class="product-item">
                             <div class="pi-pic">
-                                <img src="img/cookies/Qiow_cookies-4.jpg" alt="" />
+                                <img src="img/cookies/bolasusu_coklat.jpg" alt="" />
                                 <!-- <ul>
                                     <li class="w-icon active">
                                         <a href="#"><i class="icon_bag_alt"></i></a>
@@ -81,13 +81,21 @@
                                     <h5>Kue Bola Coklat</h5>
                                 </a>
                                 <div class="product-price">
-                                    Rp.45.000
+                                    Rp.60.000
                                 </div>
                             </div>
                         </div>
+                    </carousel>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 mt-5">
+                    <carousel class="product-slider" :items="2" :nav="false" :autoplay="true" :dots="false">
                         <div class="product-item">
                             <div class="pi-pic">
-                                <img src="img/cookies/Qiow_cookies-5.jpg" alt="" />
+                                <img src="img/cookies/keju.jpg" alt="" />
                                 <!-- <ul>
                                     <li class="w-icon active">
                                         <a href="#"><i class="icon_bag_alt"></i></a>
@@ -101,13 +109,13 @@
                                     <h5>Kue Keju</h5>
                                 </a>
                                 <div class="product-price">
-                                    Rp.45.000
+                                    Rp.60.000
                                 </div>
                             </div>
                         </div>
                         <div class="product-item">
                             <div class="pi-pic">
-                                <img src="img/cookies/Qiow_cookies-7.jpg" alt="" />
+                                <img src="img/cookies/coklat_kacang.jpg" alt="" />
                                 <!-- <ul>
                                     <li class="w-icon active">
                                         <a href="#"><i class="icon_bag_alt"></i></a>
@@ -119,81 +127,12 @@
                                 </ul> -->
                             </div>
                             <div class="pi-text">
-                                <div class="catagory-name">Towel</div>
+                                <div class="catagory-name">Kue Kering</div>
                                 <a href="#">
-                                    <h5>Converse Shoes</h5>
+                                    <h5>Coklat Kacang</h5>
                                 </a>
                                 <div class="product-price">
-                                    $34.00
-                                </div>
-                            </div>
-                        </div>
-                        <div class="product-item">
-                            <div class="pi-pic">
-                                <img src="img/cookies/Qiow_cookies-7.jpg" alt="" />
-                                <!-- <ul>
-                                    <li class="w-icon active">
-                                        <a href="#"><i class="icon_bag_alt"></i></a>
-                                    </li>
-                                    <li class="quick-view"><a href="#">+ Quick View</a></li>
-                                    <li class="w-icon">
-                                        <a href="#"><i class="fa fa-random"></i></a>
-                                    </li>
-                                </ul> -->
-                            </div>
-                            <div class="pi-text">
-                                <div class="catagory-name">Towel</div>
-                                <a href="#">
-                                    <h5>Converse Shoes</h5>
-                                </a>
-                                <div class="product-price">
-                                    $34.00
-                                </div>
-                            </div>
-                        </div>
-                        <div class="product-item">
-                            <div class="pi-pic">
-                                <img src="img/cookies/Qiow_cookies-7.jpg" alt="" />
-                                <!-- <ul>
-                                    <li class="w-icon active">
-                                        <a href="#"><i class="icon_bag_alt"></i></a>
-                                    </li>
-                                    <li class="quick-view"><a href="#">+ Quick View</a></li>
-                                    <li class="w-icon">
-                                        <a href="#"><i class="fa fa-random"></i></a>
-                                    </li>
-                                </ul> -->
-                            </div>
-                            <div class="pi-text">
-                                <div class="catagory-name">Towel</div>
-                                <a href="#">
-                                    <h5>Converse Shoes</h5>
-                                </a>
-                                <div class="product-price">
-                                    $34.00
-                                </div>
-                            </div>
-                        </div>
-                        <div class="product-item">
-                            <div class="pi-pic">
-                                <img src="img/cookies/Qiow_cookies-7.jpg" alt="" />
-                                <!-- <ul>
-                                    <li class="w-icon active">
-                                        <a href="#"><i class="icon_bag_alt"></i></a>
-                                    </li>
-                                    <li class="quick-view"><a href="#">+ Quick View</a></li>
-                                    <li class="w-icon">
-                                        <a href="#"><i class="fa fa-random"></i></a>
-                                    </li>
-                                </ul> -->
-                            </div>
-                            <div class="pi-text">
-                                <div class="catagory-name">Towel</div>
-                                <a href="#">
-                                    <h5>Converse Shoes</h5>
-                                </a>
-                                <div class="product-price">
-                                    $34.00
+                                    Rp. 50.000
                                 </div>
                             </div>
                         </div>

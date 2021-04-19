@@ -51,7 +51,7 @@
                     <div class="col-lg-12">
                         <div class="copyright-text">
                             Copyright &copy;
-                            2021 All rights reserved | Shayna
+                            2021 All rights reserved | ReynandaJM
                         </div>
                     </div>
                 </div>
