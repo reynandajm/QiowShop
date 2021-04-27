@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg-12 mt-4">
                     <carousel class="product-slider" :items="2" :nav="false" :autoplay="true" :dots="false">
-                        <div class="product-item">
+                        <div class="product-item"  style="margin-right:25px;">
                             <div class="pi-pic">
                                 <img src="img/cookies/bolasusu_putih.jpg" alt="" />
                             </div>
@@ -21,7 +21,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="product-item col-">
+                        <div class="product-item">
                             <div class="pi-pic">
                                 <img src="img/cookies/salju.jpg" alt="" />
                             </div>
@@ -373,7 +373,7 @@ export default {
 </script>
 
 <style scoped>
-.product-item {
+/* .product-item {
     margin-right: 25px;
-}
+} */
 </style>
