@@ -3,7 +3,6 @@
     <section class="women-banner">
         <div class="container-fluid">
         <h2 class="font-weight-bold mb-2 mt-1">From the Shop</h2>
-        <p class="font-italic text-muted mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
             <div class="row">
                 <div class="col-lg-12 mt-4">
                     <carousel class="product-slider" :items="2" :nav="false" :autoplay="true" :dots="false">
@@ -222,7 +221,7 @@
                         <div class="pi-text">
                                     <div class="catagory-name">Kue Kering</div>
                                     <a href="/#/product">
-                                        <h5>Kue Keju</h5>
+                                        <h5>Sweet White Beans</h5>
                                     </a>
                                     <div class="product-price">
                                         Rp.60.000
@@ -261,7 +260,7 @@
                         <div class="pi-text">
                                     <div class="catagory-name">Kue Kering</div>
                                     <a href="/#/product">
-                                        <h5>Kue Keju</h5>
+                                        <h5>Cetak Sukade</h5>
                                     </a>
                                     <div class="product-price">
                                         Rp.55.000
@@ -300,7 +299,7 @@
                         <div class="pi-text">
                                     <div class="catagory-name">Kue Kering</div>
                                     <a href="/#/product">
-                                        <h5>Kue Keju</h5>
+                                        <h5>Selimut Kacang</h5>
                                     </a>
                                     <div class="product-price">
                                         Rp.45.000
@@ -339,7 +338,7 @@
                         <div class="pi-text">
                                     <div class="catagory-name">Kue Kering</div>
                                     <a href="/#/product">
-                                        <h5>Kue Keju</h5>
+                                        <h5>Semprit</h5>
                                     </a>
                                     <div class="product-price">
                                         Rp.50.000
