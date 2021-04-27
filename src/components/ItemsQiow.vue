@@ -3,14 +3,25 @@
     <section class="women-banner">
         <div class="container-fluid">
         <h2 class="font-weight-bold mb-2 mt-1">From the Shop</h2>
-            <div class="row">
-                <div class="col-lg-12 mt-4">
-                    <carousel class="product-slider" :items="2" :nav="false" :autoplay="true" :dots="false">
-                        <div class="product-item"  style="margin-right:25px;">
-                            <div class="pi-pic">
-                                <img src="img/cookies/bolasusu_putih.jpg" alt="" />
-                            </div>
-                            <div class="pi-text">
+        <div class="row pb-5 mb-4">
+        <!-- Bola susu coklat -->
+        <div class="col-lg-6 col-md-6 mb-4 mb-lg-0">
+            <!-- Card-->
+            <div class="card rounded shadow-sm border-0">
+                <div class="card-body p-4">
+                    <div class="product-item">
+                    <div class="pi-pic">
+                    <img src="img/cookies/bolasusu_coklat.jpg" alt="" class="img-fluid d-block mx-auto mb-3">
+                                <ul>
+                                    <li class="w-icon active">
+                                        <a href="#"><i class="icon_bag_alt"></i></a>
+                                    </li>
+                                    <li class="quick-view"><a href="#">+ Quick View</a></li>
+                                </ul>
+                    </div>
+                    </div>
+                    <div class="product-item">
+                    <div class="pi-text">
                                 <div class="catagory-name">Kue Kering</div>
                                 <a href="/#/product">
                                     <h5>Kue Bola Susu</h5>
@@ -19,27 +30,58 @@
                                     Rp.60.000
                                     <span>Rp.65.000</span>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="product-item">
-                            <div class="pi-pic">
-                                <img src="img/cookies/salju.jpg" alt="" />
-                            </div>
-                            <div class="pi-text">
+                    </div>
+                    </div>
+                    <ul class="list-inline small">
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Nastar -->
+        <div class="col-lg-6 col-md-6 mb-4 mb-lg-0">
+            <!-- Card-->
+            <div class="card rounded shadow-sm border-0">
+                <div class="card-body p-4">
+                    <div class="product-item">
+                    <div class="pi-pic">
+                    <img src="img/cookies/nastar.jpg" alt="" class="img-fluid d-block mx-auto mb-3">
+                                <ul>
+                                    <li class="w-icon active">
+                                        <a href="#"><i class="icon_bag_alt"></i></a>
+                                    </li>
+                                    <li class="quick-view"><a href="#">+ Quick View</a></li>
+                                </ul>
+                    </div>
+                    </div>
+                    <div class="product-item">
+                    <div class="pi-text">
                                 <div class="catagory-name">Kue Kering</div>
-                                <a href="#">
-                                    <h5>Kue Salju</h5>
+                                <a href="/#/product">
+                                    <h5>Kue Nastar</h5>
                                 </a>
                                 <div class="product-price">
                                     Rp.60.000
-                                    <span>Rp.70.000</span>
+                                    <span>Rp.65.000</span>
                                 </div>
-                            </div>
-                        </div>
-
-                    </carousel>
+                    </div>
+                    </div>
+                    <ul class="list-inline small">
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                        <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                    </ul>
                 </div>
             </div>
+        </div>
+    </div>
         </div>
         
         <!-- First Row [Prosucts]-->
@@ -362,18 +404,12 @@
     <!-- Women Banner Section End -->
 </template>
 
-<script>
-import carousel from 'vue-owl-carousel';
-export default {
-    name: "ItemsQiow",
-    components: {
-        carousel
-    }
-};
-</script>
-
-<style scoped>
-/* .product-item {
-    margin-right: 25px;
-} */
-</style>
+// <script>
+// import carousel from 'vue-owl-carousel';
+// export default {
+//     name: "ItemsQiow",
+//     components: {
+//         carousel
+//     }
+// };
+// </script>
