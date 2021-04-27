@@ -1178,6 +1178,7 @@ ol {
 .product-item .pi-pic {
     overflow: hidden;
     position: relative;
+    display: block;
 }
 
 .product-item .pi-pic img {
